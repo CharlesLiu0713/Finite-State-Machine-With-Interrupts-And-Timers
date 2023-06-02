@@ -55,7 +55,7 @@ The car starts in neutral state
 ​	For more details, please refer to the file **statemachine.c** and read the comments included.
 ​    Use the LCD to display the current states and operations of the program.
 
-![Toy car state diagram]([Toy car state diagram.png](https://github.com/CharlesLiu0713/Finite-State-Machine-With-Interrupts-And-Timers/blob/main/Toy%20car%20state%20diagram.png))
+([Toy car state diagram.png](https://github.com/CharlesLiu0713/Finite-State-Machine-With-Interrupts-And-Timers/blob/main/Toy%20car%20state%20diagram.png))
 
 ​																				**Toy car state diagram**
 
