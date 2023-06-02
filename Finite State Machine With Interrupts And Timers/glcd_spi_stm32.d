@@ -1,0 +1,10 @@
+.\glcd_spi_stm32.o: GLCD_SPI_STM32.c
+.\glcd_spi_stm32.o: D:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x_cl.h
+.\glcd_spi_stm32.o: D:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\glcd_spi_stm32.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\glcd_spi_stm32.o: D:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\glcd_spi_stm32.o: D:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\glcd_spi_stm32.o: D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x_cl.h
+.\glcd_spi_stm32.o: GLCD.h
+.\glcd_spi_stm32.o: Font_6x8_h.h
+.\glcd_spi_stm32.o: Font_16x24_h.h

@@ -1,0 +1,24 @@
+;#<FEEDBACK># ARM Linker, 5.03 [Build 76]: Last Updated: Wed Apr 19 16:13:42 2023
+;VERSION 0.2
+;FILE glcd_spi_stm32.o
+GLCD_Bargraph <= USED 0
+GLCD_Bitmap <= USED 0
+GLCD_ClearLn <= USED 0
+GLCD_PutPixel <= USED 0
+GLCD_ScrollVertical <= USED 0
+GLCD_WrCmd <= USED 0
+GLCD_WrReg <= USED 0
+__asm___16_GLCD_SPI_STM32_c_07b274fb____REV16 <= USED 0
+__asm___16_GLCD_SPI_STM32_c_07b274fb____REVSH <= USED 0
+;FILE irq.o
+;FILE startup_stm32f10x_cl.o
+;FILE statemachine.o
+EXTI1_IRQ_IRQHandler <= USED 0
+EXTI2_IRQ_IRQHandler <= USED 0
+EXTI3_IRQ_IRQHandler <= USED 0
+__asm___14_statemachine_c_led_mask____REV16 <= USED 0
+__asm___14_statemachine_c_led_mask____REVSH <= USED 0
+clear_gpio_interrupt <= USED 0
+;FILE system_stm32f10x_cl.o
+__asm___21_system_stm32f10x_cl_c_a9c8fbbb____REV16 <= USED 0
+__asm___21_system_stm32f10x_cl_c_a9c8fbbb____REVSH <= USED 0

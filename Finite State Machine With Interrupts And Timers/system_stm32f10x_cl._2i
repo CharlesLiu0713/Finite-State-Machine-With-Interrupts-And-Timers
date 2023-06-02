@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork 
+-I D:\Keil\ARM\RV31\INC
+-I D:\Keil\ARM\CMSIS\Include
+-I D:\Keil\ARM\Inc\ST\STM32F10x
+
+-o .\system_stm32f10x_cl.o --omf_browse .\system_stm32f10x_cl.crf --depend .\system_stm32f10x_cl.d --feedback ".\statemachine.fed" "system_stm32f10x_cl.c"

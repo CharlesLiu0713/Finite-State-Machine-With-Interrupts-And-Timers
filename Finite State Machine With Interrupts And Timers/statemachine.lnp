@@ -1,0 +1,11 @@
+--cpu Cortex-M3
+".\glcd_spi_stm32.o"
+".\irq.o"
+".\statemachine.o"
+".\_hal_gpio.o"
+".\startup_stm32f10x_cl.o"
+".\system_stm32f10x_cl.o"
+D:\Keil\ARM\RV31\LIB\RTX_CM3.LIB
+--library_type=microlib --ro-base 0x08000000 --entry 0x08000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\statemachine.map" -o .\statemachine.axf

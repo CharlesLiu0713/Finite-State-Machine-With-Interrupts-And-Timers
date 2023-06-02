@@ -1,0 +1,41 @@
+Dependencies for Project 'statemachine', Target 'Target 1': (DO NOT MODIFY !)
+F (.\GLCD_SPI_STM32.c)(0x553423DC)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\glcd_spi_stm32.o --omf_browse .\glcd_spi_stm32.crf --depend .\glcd_spi_stm32.d)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x_cl.h)(0x532CB83A)
+I (D:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532CBCA2)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532CBCA2)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532CBCA2)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x_cl.h)(0x532CB83A)
+I (GLCD.h)(0x553423DA)
+I (Font_6x8_h.h)(0x553423DA)
+I (Font_16x24_h.h)(0x553423D8)
+F (.\IRQ.c)(0x6269D38E)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\irq.o --omf_browse .\irq.crf --depend .\irq.d)
+F (.\statemachine.c)(0x645582CA)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\statemachine.o --omf_browse .\statemachine.crf --depend .\statemachine.d)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x51C88A34)
+I (_HAL_GPIO.h)(0x64557A19)
+I (stm32f10x.h)(0x5534243A)
+I (D:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532CBCA2)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532CBCA2)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532CBCA2)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x532CB83A)
+I (GLCD.h)(0x553423DA)
+I (D:\Keil\ARM\ARMCC\include\math.h)(0x51C88A34)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C88A34)
+F (.\_HAL_GPIO.c)(0x645576DD)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\_hal_gpio.o --omf_browse .\_hal_gpio.crf --depend .\_hal_gpio.d)
+I (_HAL_GPIO.h)(0x64557A19)
+I (stm32f10x.h)(0x5534243A)
+I (D:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532CBCA2)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532CBCA2)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532CBCA2)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x532CB83A)
+F (.\_HAL_GPIO.h)(0x64557A19)()
+F (.\startup_stm32f10x_cl.s)(0x553423E0)(--cpu Cortex-M3 --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x--list .\startup_stm32f10x_cl.lst --xref -o .\startup_stm32f10x_cl.o --depend .\startup_stm32f10x_cl.d)
+F (.\system_stm32f10x_cl.c)(0x5534243C)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\system_stm32f10x_cl.o --omf_browse .\system_stm32f10x_cl.crf --depend .\system_stm32f10x_cl.d)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x_cl.h)(0x532CB83A)
+I (D:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532CBCA2)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532CBCA2)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532CBCA2)
+I (D:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x_cl.h)(0x532CB83A)
